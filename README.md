@@ -10,7 +10,7 @@ I am a passionate and dedicated software developer with a strong background in J
 - SQL (SQLite, PostgreSQL)
 - HTML, CSS
 
-####Interests
+#### Interests
 Beyond coding, I have a passion for literature, ranging from fiction to nonfiction, novels to comics. I find solace and inspiration in the written word, which fuels my creativity and broadens my perspective.
 <!--
 **MrBird88/MrBird88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
