@@ -1,9 +1,9 @@
 ### Hello, I'm Roosevelt! 👋
 
-## About Me
+#### About Me
 I am a passionate and dedicated software developer with a strong background in JavaScript, Python, Rust, SQL, HTML, and CSS. With experience in front-end and back-end development, I enjoy building dynamic and user-friendly web applications. My journey into coding began with a love for problem-solving, and I have since honed my skills through challenging projects and continuous learning.
 
-## Skills
+#### Skills
 JavaScript (React, Redux)
 Python (Flask, SQLAlchemy)
 Rust (Actix, Diesel)
