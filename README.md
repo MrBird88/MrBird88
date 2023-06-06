@@ -10,6 +10,7 @@ I am a passionate and dedicated software developer with a strong background in J
 - SQL (SQLite, PostgreSQL)
 - HTML, CSS
 
+![RBird111's Stats](https://github-readme-stats.vercel.app/api?username=RBird111&theme=radical&show_icons=true&hide_border=true&count_private=true)
 <!--
 **MrBird88/MrBird88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
